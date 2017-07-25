@@ -1,5 +1,5 @@
 ## Summary
-This will take you through the steps of configuring your skill in the developer portal. 
+This will take you through the steps of configuring your skill in the developer portal. If you haven't set up your Lambda function on [AWS](../aws) yet, do so now.
 
 ### Configure your skill in the developer portal
 1. First, login to the [Amazon developer Portal](https://developer.amazon.com/login.html).  If you haven't done so already, just create a free account.
