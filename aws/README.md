@@ -38,4 +38,4 @@ This will take you through the initial steps to configure your Alexa skill.
 
 ## Great work!
 
-Way to go, you've completed most of the steps to connect Alexa's voice recognition to your program.  Now, we'll configure the rest in our [second section](skills)
+Way to go, you've completed most of the steps to connect Alexa's voice recognition to your program.  Now, we'll configure the rest in our [second section](../skills)
